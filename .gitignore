@@ -24,4 +24,5 @@ nbdist/
 .nb-gradle/
 target/
 out/
+log/
 *.DS_Store
